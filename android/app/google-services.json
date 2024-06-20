@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522465768812",
+    "project_id": "sekum-c8805",
+    "storage_bucket": "sekum-c8805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522465768812:android:70a864f996f2fdd7fcaf49",
+        "android_client_info": {
+          "package_name": "com.example.sekum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzKPyZJZxIEfJ-XOLtOnwV9utGF1PDFNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
